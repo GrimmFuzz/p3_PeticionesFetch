@@ -1,0 +1,43 @@
+body {
+    color: #bc81f3;
+    background-color: rgba(17, 0, 255, 0.8)
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: #5f0dca;
+    border-radius: 5px;
+    padding: 10px;
+    height: auto;
+    color: white;
+}
+
+.result-card {
+    margin: 10px;
+   padding: 10px; 
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #5f0dca;
+    text-align: center;
+    color: white;
+}
+
+.result-card img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+    
+}
+
+.result-card h3 {
+    margin: 10px 0;
+    text-align: center;
+    color: white;
+}
+
+.result-card p {
+    margin: 5px 0;
+    text-align: center;
+    color: white;
+}
